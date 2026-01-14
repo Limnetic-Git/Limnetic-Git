@@ -74,7 +74,7 @@ me = LimneticGG()
 
 ```python
 current_projects = {
-    "learning": ["Advanced C++ and C# Patterns", "Network Protocols", "Gamedev", "Security"],
+    "learning": ["Advanced Python and C", "Network Protocols", "Gamedev", "Security"],
     "exploring": ["Python Backend", "AI Integration", "Soft-skills :)"],
     "building": ["Games", "SaaS", "Open source libraries"]
 }
