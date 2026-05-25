@@ -24,7 +24,7 @@ class LimneticGG:
         self.first_language = "Python"
         
     def current_focus(self):
-        return ["Backend Development", "DevOps", "Linux Administration"]
+        return ["Python Backend Development", "DevOps", "Linux Administration"]
         
     def hobbies(self):
         return ["Coding", "Open Source", "Linux", "Networking", "Learning new tech", "GameDev"]
