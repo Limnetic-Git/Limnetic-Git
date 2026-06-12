@@ -33,7 +33,6 @@ me = LimneticGG()
 ```
 
 ---
-#000080
 ## 🛠️ Tech Stack
 
 ### **Programming Languages**
