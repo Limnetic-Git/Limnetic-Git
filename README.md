@@ -18,7 +18,7 @@
 class LimneticGG:
     def __init__(self):
         self.name = "Fedor"
-        self.age = 16
+        self.age = 17
         self.location = "Moscow, Russia"
         self.experience = "5 years"
         self.first_language = "Python"
