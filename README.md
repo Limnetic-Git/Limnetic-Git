@@ -24,7 +24,7 @@ class LimneticGG:
         self.first_language = "Python"
         
     def current_focus(self):
-        return ["Python Backend Development", "DevOps", "Linux Administration"]
+        return ["Python&C# Backend Development", "DevOps", "Linux Administration"]
         
     def hobbies(self):
         return ["Coding", "Open Source", "Linux", "Networking", "Learning new tech", "GameDev"]
@@ -77,9 +77,9 @@ me = LimneticGG()
 
 ```python
 current_projects = {
-    "learning": ["Advanced Python and C", "Network Protocols", "Simple gamedev", "Security"],
+    "learning": ["Advanced Python and C", "Mojo", "Simple gamedev", "Security"],
     "exploring": ["Python Backend", "AI Integration", "Soft-skills :)"],
-    "building": ["Games", "SaaS", "Open source projects"]
+    "building": ["Games", "fun things", "Open source projects"]
 }
 ```
 
