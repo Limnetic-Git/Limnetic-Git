@@ -35,33 +35,59 @@ me = LimneticGG()
 ---
 ## 🛠️ Tech Stack
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+  <tr>
+    <th align="center">Main focus</th>
+    <th align="center">I use too</th>
+    <th align="center">Backend</th>
+    <th align="center">Frontend</th>
+    <th align="center">Tools & DB</th>
+    <th align="center">OS & IDEs</th>
+  </tr>
+  <tr valign="middle">
+    <td valign="middle" align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,cs,c" />
+      </a>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=rust,cpp,go" />
+      </a>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=fastapi,django,flask,dotnet,actix" />
+      </a>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css" />
+      </a>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vue,svelte" />
+      </a>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,nginx,git" />
+      </a>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis" />
+      </a>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,arch,debian,vscode" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### **Technologies & Skills**
-![Async Programming](https://img.shields.io/badge/Async_Programming-00BFFF?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-FF6F61?style=for-the-badge)
-![Socket Programming](https://img.shields.io/badge/Sockets-8A2BE2?style=for-the-badge)
-![Linux Admin](https://img.shields.io/badge/Linux_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Fan of:**
 
-### **Operating Systems**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white)
 ![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)
 
 ---
